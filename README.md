@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chu Duc Thang
-- 👀 I’m interested in Machine Learning/Deep Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine learning projects
+- 👋 Hi, I’m @Chu Duc Thang and I study at University of Alberta
+- 👀 I’m interested in applying Machine Learning/Deep Learning in solving Finance/Commerce problems
+- 🌱 I’m currently learning feature engineering in Machine Learning
+- 💞️ I’m looking to collaborate on Machine learning/Deep Learning projects
 - 📫 How to reach me either email me at chuducthang77@gmail.com or thang@ualberta.ca
 
 <!---
